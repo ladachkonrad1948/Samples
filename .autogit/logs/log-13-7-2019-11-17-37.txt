@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Tue Aug 13 2019 11:17:37 GMT+0200 (czas środkowoeuropejski letni)
+------------------------------------------------------
+
+Modified files:
+* Satellite-Packages/ConsoleApp/ConsoleApp.csproj
+
+
+Created files:
+* .autogit/autogit.json
+* .vscode/tasks.json
+
+
+Deleted files:
+
+
+Renamed files:
